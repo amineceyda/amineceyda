@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/amine-ceyda-tandoğan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/amine-ceyda-tandoğan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//in/amine-ceyda-tandoğan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/amine-ceyda-tandoğan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amineceyda33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amineceyda33" height="30" width="40" /></a>
 </p>
 
