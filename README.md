@@ -9,7 +9,7 @@ I'm a passionate developer based with expertise in .NET API and Angular developm
 
 - 🌱 I’m currently learning **ASP.NET Core MVC (.NET 6)**
 
-- 💬 Talk me about **.NET API design, Angular development, collaboration opportunities on projects, or any related questions or ideas**
+- 💬 Talk to me about **.NET API design, Angular development, collaboration opportunities on projects, or any related questions or ideas**
 
 - 📫 How to reach me: **[a.ceydatandogan@gmail.com](mailto:a.ceydatandogan@gmail.com)**
 
