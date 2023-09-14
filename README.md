@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Amine Ceyda Tandoğan</h1>
-<h3 align="center">A passionate developer with expertise in .NET APIs, Angular, and Python, from Turkey.</h3>
+<h3 align="center">A developer with expertise in .NET APIs, Angular, and Python, from Turkey.</h3>
 
 
 I'm a passionate developer with expertise in .NET API, Angular, and Python, based in Turkey. I have a strong commitment to coding and a constant drive to learn. I thrive on tackling new challenges and collaborating on a variety of exciting projects..
