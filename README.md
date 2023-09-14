@@ -1,15 +1,15 @@
 <h1 align="center">Hi there! 👋 I'm Amine Ceyda Tandoğan</h1>
-<h3 align="center">A passionate .NET API and Angular Developer from Turkey</h3>
+<h3 align="center">A passionate developer with expertise in .NET APIs, Angular, and Python, from Turkey.</h3>
 
 
-I'm a passionate developer based with expertise in .NET API and Angular development. With a strong passion for coding and continuous learning, I'm always excited to take on new challenges and collaborate on interesting projects.
+I'm a passionate developer with expertise in .NET API, Angular, and Python, based in Turkey. I have a strong commitment to coding and a constant drive to learn. I thrive on tackling new challenges and collaborating on a variety of exciting projects..
 
 <img align="right" alt="Coding" width="200" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 
 - 🌱 I’m currently learning **ASP.NET Core MVC (.NET 6)**
 
-- 💬 Talk to me about **.NET API design, Angular development, collaboration opportunities on projects, or any related questions or ideas**
+- 💬 Talk to me about **API design, Angular development, Python projects, collaboration opportunities on projects, or any related questions or ideas**
 
 - 📫 How to reach me: **[a.ceydatandogan@gmail.com](mailto:a.ceydatandogan@gmail.com)**
 
